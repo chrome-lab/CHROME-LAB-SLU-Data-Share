@@ -1,0 +1,31 @@
+<launch>
+
+  <!-- Set ROS master URI -->
+  <arg name="master_uri" default="http://10.178.1.113:11311"/>
+  <env name="ROS_MASTER_URI" value="$(arg master_uri)" />
+
+  <!-- Launch Vision_node -->
+  <node
+    pkg="quori_gui"
+    type="vision.py"
+    name="vision_node"
+    output="screen"
+  />
+
+  <!-- Launch MovementControl -->
+  <node
+    pkg="quori_interactions"
+    type="movement_control.py"
+    name="movement_control_node"
+    output="screen"
+  />
+
+  <node
+    pkg="quori_gui"
+    type="tkinter_gui.py"
+    name="gui_node"
+    output="screen"
+  />
+
+</launch>
+

@@ -1,0 +1,3 @@
+Symlinking /home/akash/catkin_ws/devel/lib/pkgconfig/joystick.pc
+Symlinking /home/akash/catkin_ws/devel/share/joystick/cmake/joystickConfig.cmake
+Symlinking /home/akash/catkin_ws/devel/share/joystick/cmake/joystickConfig-version.cmake

@@ -1,0 +1,8 @@
+prefix=/home/akash/catkin_ws/devel/.private/quori_gui
+
+Name: quori_gui
+Description: Description of quori_gui
+Version: 0.0.0
+Cflags: -I/home/akash/catkin_ws/devel/.private/quori_gui/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs message_runtime

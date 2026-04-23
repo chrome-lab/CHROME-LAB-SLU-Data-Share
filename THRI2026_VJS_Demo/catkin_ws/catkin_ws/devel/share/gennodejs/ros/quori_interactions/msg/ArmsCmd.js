@@ -1,0 +1,1 @@
+/home/akash/catkin_ws/devel/.private/quori_interactions/share/gennodejs/ros/quori_interactions/msg/ArmsCmd.js

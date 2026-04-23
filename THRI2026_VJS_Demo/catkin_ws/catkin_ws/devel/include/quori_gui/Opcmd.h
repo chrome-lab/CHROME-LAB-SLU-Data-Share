@@ -1,0 +1,1 @@
+/home/akash/catkin_ws/devel/.private/quori_gui/include/quori_gui/Opcmd.h

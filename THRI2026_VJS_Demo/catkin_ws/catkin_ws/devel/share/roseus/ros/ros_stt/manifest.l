@@ -1,0 +1,1 @@
+/home/akash/catkin_ws/devel/.private/ros_stt/share/roseus/ros/ros_stt/manifest.l

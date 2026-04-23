@@ -1,0 +1,1 @@
+/home/akash/catkin_ws/devel/.private/quori_interactions/lib/pkgconfig/quori_interactions.pc

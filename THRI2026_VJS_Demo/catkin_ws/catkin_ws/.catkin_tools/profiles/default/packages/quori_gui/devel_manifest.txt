@@ -1,0 +1,20 @@
+quori_gui
+/home/akash/catkin_ws/devel/.private/quori_gui/cmake.lock /home/akash/catkin_ws/devel/./cmake.lock
+/home/akash/catkin_ws/devel/.private/quori_gui/include/quori_gui/Opcmd.h /home/akash/catkin_ws/devel/include/quori_gui/Opcmd.h
+/home/akash/catkin_ws/devel/.private/quori_gui/lib/pkgconfig/quori_gui.pc /home/akash/catkin_ws/devel/lib/pkgconfig/quori_gui.pc
+/home/akash/catkin_ws/devel/.private/quori_gui/lib/python3/dist-packages/quori_gui/__init__.py /home/akash/catkin_ws/devel/lib/python3/dist-packages/quori_gui/__init__.py
+/home/akash/catkin_ws/devel/.private/quori_gui/lib/python3/dist-packages/quori_gui/msg/__init__.py /home/akash/catkin_ws/devel/lib/python3/dist-packages/quori_gui/msg/__init__.py
+/home/akash/catkin_ws/devel/.private/quori_gui/lib/python3/dist-packages/quori_gui/msg/_Opcmd.py /home/akash/catkin_ws/devel/lib/python3/dist-packages/quori_gui/msg/_Opcmd.py
+/home/akash/catkin_ws/devel/.private/quori_gui/share/gennodejs/ros/quori_gui/_index.js /home/akash/catkin_ws/devel/share/gennodejs/ros/quori_gui/_index.js
+/home/akash/catkin_ws/devel/.private/quori_gui/share/gennodejs/ros/quori_gui/msg/_index.js /home/akash/catkin_ws/devel/share/gennodejs/ros/quori_gui/msg/_index.js
+/home/akash/catkin_ws/devel/.private/quori_gui/share/gennodejs/ros/quori_gui/msg/Opcmd.js /home/akash/catkin_ws/devel/share/gennodejs/ros/quori_gui/msg/Opcmd.js
+/home/akash/catkin_ws/devel/.private/quori_gui/share/quori_gui/cmake/quori_gui-msg-paths.cmake /home/akash/catkin_ws/devel/share/quori_gui/cmake/quori_gui-msg-paths.cmake
+/home/akash/catkin_ws/devel/.private/quori_gui/share/quori_gui/cmake/quori_guiConfig.cmake /home/akash/catkin_ws/devel/share/quori_gui/cmake/quori_guiConfig.cmake
+/home/akash/catkin_ws/devel/.private/quori_gui/share/quori_gui/cmake/quori_guiConfig-version.cmake /home/akash/catkin_ws/devel/share/quori_gui/cmake/quori_guiConfig-version.cmake
+/home/akash/catkin_ws/devel/.private/quori_gui/share/quori_gui/cmake/quori_gui-msg-extras.cmake /home/akash/catkin_ws/devel/share/quori_gui/cmake/quori_gui-msg-extras.cmake
+/home/akash/catkin_ws/devel/.private/quori_gui/share/roseus/ros/quori_gui/manifest.l /home/akash/catkin_ws/devel/share/roseus/ros/quori_gui/manifest.l
+/home/akash/catkin_ws/devel/.private/quori_gui/share/roseus/ros/quori_gui/msg/Opcmd.l /home/akash/catkin_ws/devel/share/roseus/ros/quori_gui/msg/Opcmd.l
+/home/akash/catkin_ws/devel/.private/quori_gui/share/common-lisp/ros/quori_gui/msg/Opcmd.lisp /home/akash/catkin_ws/devel/share/common-lisp/ros/quori_gui/msg/Opcmd.lisp
+/home/akash/catkin_ws/devel/.private/quori_gui/share/common-lisp/ros/quori_gui/msg/_package.lisp /home/akash/catkin_ws/devel/share/common-lisp/ros/quori_gui/msg/_package.lisp
+/home/akash/catkin_ws/devel/.private/quori_gui/share/common-lisp/ros/quori_gui/msg/_package_Opcmd.lisp /home/akash/catkin_ws/devel/share/common-lisp/ros/quori_gui/msg/_package_Opcmd.lisp
+/home/akash/catkin_ws/devel/.private/quori_gui/share/common-lisp/ros/quori_gui/msg/quori_gui-msg.asd /home/akash/catkin_ws/devel/share/common-lisp/ros/quori_gui/msg/quori_gui-msg.asd

@@ -1,0 +1,8 @@
+prefix=/home/akash/catkin_ws/devel/.private/ros_stt
+
+Name: ros_stt
+Description: Description of ros_stt
+Version: 2.1.21
+Cflags: -I/home/akash/catkin_ws/devel/.private/ros_stt/include
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs message_runtime

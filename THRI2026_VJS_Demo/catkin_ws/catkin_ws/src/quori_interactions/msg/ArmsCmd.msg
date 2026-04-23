@@ -1,0 +1,5 @@
+float32 r_shoulder_pitch
+float32 r_shoulder_roll
+float32 l_shoulder_pitch
+float32 l_shoulder_roll
+float32 waist_pitch

@@ -1,0 +1,1 @@
+/home/akash/catkin_ws/devel/.private/quori_gui/share/roseus/ros/quori_gui/msg/Opcmd.l

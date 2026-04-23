@@ -1,0 +1,1 @@
+/home/akash/catkin_ws/devel/.private/ros_stt/share/common-lisp/ros/ros_stt/msg/ros_stt-msg.asd

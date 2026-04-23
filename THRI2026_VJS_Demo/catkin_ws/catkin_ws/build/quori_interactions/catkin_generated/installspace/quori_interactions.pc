@@ -1,0 +1,8 @@
+prefix=/home/akash/catkin_ws/install
+
+Name: quori_interactions
+Description: Description of quori_interactions
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: rospy message_runtime

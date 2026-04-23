@@ -1,0 +1,1 @@
+/home/akash/catkin_ws/devel/.private/ros_stt/share/ros_stt/cmake/ros_sttConfig-version.cmake

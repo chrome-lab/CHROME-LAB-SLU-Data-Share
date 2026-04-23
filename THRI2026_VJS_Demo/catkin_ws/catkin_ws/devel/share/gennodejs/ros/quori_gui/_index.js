@@ -1,0 +1,1 @@
+/home/akash/catkin_ws/devel/.private/quori_gui/share/gennodejs/ros/quori_gui/_index.js

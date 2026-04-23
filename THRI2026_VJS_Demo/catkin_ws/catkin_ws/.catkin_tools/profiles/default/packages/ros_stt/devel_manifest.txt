@@ -1,0 +1,20 @@
+ros_stt
+/home/akash/catkin_ws/devel/.private/ros_stt/cmake.lock /home/akash/catkin_ws/devel/./cmake.lock
+/home/akash/catkin_ws/devel/.private/ros_stt/include/ros_stt/speech_recognition.h /home/akash/catkin_ws/devel/include/ros_stt/speech_recognition.h
+/home/akash/catkin_ws/devel/.private/ros_stt/lib/pkgconfig/ros_stt.pc /home/akash/catkin_ws/devel/lib/pkgconfig/ros_stt.pc
+/home/akash/catkin_ws/devel/.private/ros_stt/lib/python3/dist-packages/ros_stt/__init__.py /home/akash/catkin_ws/devel/lib/python3/dist-packages/ros_stt/__init__.py
+/home/akash/catkin_ws/devel/.private/ros_stt/lib/python3/dist-packages/ros_stt/msg/__init__.py /home/akash/catkin_ws/devel/lib/python3/dist-packages/ros_stt/msg/__init__.py
+/home/akash/catkin_ws/devel/.private/ros_stt/lib/python3/dist-packages/ros_stt/msg/_speech_recognition.py /home/akash/catkin_ws/devel/lib/python3/dist-packages/ros_stt/msg/_speech_recognition.py
+/home/akash/catkin_ws/devel/.private/ros_stt/share/gennodejs/ros/ros_stt/_index.js /home/akash/catkin_ws/devel/share/gennodejs/ros/ros_stt/_index.js
+/home/akash/catkin_ws/devel/.private/ros_stt/share/gennodejs/ros/ros_stt/msg/_index.js /home/akash/catkin_ws/devel/share/gennodejs/ros/ros_stt/msg/_index.js
+/home/akash/catkin_ws/devel/.private/ros_stt/share/gennodejs/ros/ros_stt/msg/speech_recognition.js /home/akash/catkin_ws/devel/share/gennodejs/ros/ros_stt/msg/speech_recognition.js
+/home/akash/catkin_ws/devel/.private/ros_stt/share/roseus/ros/ros_stt/manifest.l /home/akash/catkin_ws/devel/share/roseus/ros/ros_stt/manifest.l
+/home/akash/catkin_ws/devel/.private/ros_stt/share/roseus/ros/ros_stt/msg/speech_recognition.l /home/akash/catkin_ws/devel/share/roseus/ros/ros_stt/msg/speech_recognition.l
+/home/akash/catkin_ws/devel/.private/ros_stt/share/ros_stt/cmake/ros_stt-msg-paths.cmake /home/akash/catkin_ws/devel/share/ros_stt/cmake/ros_stt-msg-paths.cmake
+/home/akash/catkin_ws/devel/.private/ros_stt/share/ros_stt/cmake/ros_stt-msg-extras.cmake /home/akash/catkin_ws/devel/share/ros_stt/cmake/ros_stt-msg-extras.cmake
+/home/akash/catkin_ws/devel/.private/ros_stt/share/ros_stt/cmake/ros_sttConfig-version.cmake /home/akash/catkin_ws/devel/share/ros_stt/cmake/ros_sttConfig-version.cmake
+/home/akash/catkin_ws/devel/.private/ros_stt/share/ros_stt/cmake/ros_sttConfig.cmake /home/akash/catkin_ws/devel/share/ros_stt/cmake/ros_sttConfig.cmake
+/home/akash/catkin_ws/devel/.private/ros_stt/share/common-lisp/ros/ros_stt/msg/ros_stt-msg.asd /home/akash/catkin_ws/devel/share/common-lisp/ros/ros_stt/msg/ros_stt-msg.asd
+/home/akash/catkin_ws/devel/.private/ros_stt/share/common-lisp/ros/ros_stt/msg/speech_recognition.lisp /home/akash/catkin_ws/devel/share/common-lisp/ros/ros_stt/msg/speech_recognition.lisp
+/home/akash/catkin_ws/devel/.private/ros_stt/share/common-lisp/ros/ros_stt/msg/_package_speech_recognition.lisp /home/akash/catkin_ws/devel/share/common-lisp/ros/ros_stt/msg/_package_speech_recognition.lisp
+/home/akash/catkin_ws/devel/.private/ros_stt/share/common-lisp/ros/ros_stt/msg/_package.lisp /home/akash/catkin_ws/devel/share/common-lisp/ros/ros_stt/msg/_package.lisp

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+<launch>
+
+  <!-- Flag to enable/disable joystick nodes -->
+  <arg name="joystick" default="false" />
+
+  <!-- Global environment variables (apply to all nodes in this launch file) -->
+  <env name="INTENT_URL"  value="http://127.0.0.1:8080/classify" />
+  <env name="GROQ_API_KEY" value="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" />
+
+  <!-- Intent STT -->
+  <node name="vosk_engine" pkg="ros_stt" type="stt.py" respawn="true" output="screen" />
+
+  <node name="quoriIntentClassifier"
+        pkg="ros_stt"
+        type="quori-intent-classifier.py"
+        output="screen" />
+
+  <node name="MovementControl" type="movement_control.py" pkg="quori_interactions" output="screen" />
+  <node name="ros_gui_node" type="tkinter_gui.py" pkg="quori_gui" output="screen" />
+  <node name="Quori_Arms_Angle_GUI" type="pygameGUI.py" pkg="quori_gui" output="screen" />
+
+  <!-- Joystick nodes (only if joystick:=true) -->
+  <group if="$(arg joystick)">
+    <node name="joy" type="joy_node" pkg="joy" output="screen" />
+    <node name="joy_stick" type="joystick.py" pkg="joystick" output="screen" />
+  </group>
+
+</launch>
+

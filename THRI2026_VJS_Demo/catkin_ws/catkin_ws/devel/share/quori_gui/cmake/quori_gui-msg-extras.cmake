@@ -1,0 +1,1 @@
+/home/akash/catkin_ws/devel/.private/quori_gui/share/quori_gui/cmake/quori_gui-msg-extras.cmake

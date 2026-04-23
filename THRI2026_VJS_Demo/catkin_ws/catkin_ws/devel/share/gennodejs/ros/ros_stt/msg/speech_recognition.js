@@ -1,0 +1,1 @@
+/home/akash/catkin_ws/devel/.private/ros_stt/share/gennodejs/ros/ros_stt/msg/speech_recognition.js

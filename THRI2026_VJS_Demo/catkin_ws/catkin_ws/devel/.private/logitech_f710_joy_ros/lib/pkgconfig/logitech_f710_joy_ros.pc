@@ -1,0 +1,8 @@
+prefix=/home/akash/catkin_ws/devel/.private/logitech_f710_joy_ros
+
+Name: logitech_f710_joy_ros
+Description: Description of logitech_f710_joy_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

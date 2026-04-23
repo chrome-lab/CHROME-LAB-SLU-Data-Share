@@ -1,0 +1,20 @@
+quori_interactions
+/home/akash/catkin_ws/devel/.private/quori_interactions/cmake.lock /home/akash/catkin_ws/devel/./cmake.lock
+/home/akash/catkin_ws/devel/.private/quori_interactions/include/quori_interactions/ArmsCmd.h /home/akash/catkin_ws/devel/include/quori_interactions/ArmsCmd.h
+/home/akash/catkin_ws/devel/.private/quori_interactions/lib/pkgconfig/quori_interactions.pc /home/akash/catkin_ws/devel/lib/pkgconfig/quori_interactions.pc
+/home/akash/catkin_ws/devel/.private/quori_interactions/lib/python3/dist-packages/quori_interactions/__init__.py /home/akash/catkin_ws/devel/lib/python3/dist-packages/quori_interactions/__init__.py
+/home/akash/catkin_ws/devel/.private/quori_interactions/lib/python3/dist-packages/quori_interactions/msg/__init__.py /home/akash/catkin_ws/devel/lib/python3/dist-packages/quori_interactions/msg/__init__.py
+/home/akash/catkin_ws/devel/.private/quori_interactions/lib/python3/dist-packages/quori_interactions/msg/_ArmsCmd.py /home/akash/catkin_ws/devel/lib/python3/dist-packages/quori_interactions/msg/_ArmsCmd.py
+/home/akash/catkin_ws/devel/.private/quori_interactions/share/gennodejs/ros/quori_interactions/_index.js /home/akash/catkin_ws/devel/share/gennodejs/ros/quori_interactions/_index.js
+/home/akash/catkin_ws/devel/.private/quori_interactions/share/gennodejs/ros/quori_interactions/msg/_index.js /home/akash/catkin_ws/devel/share/gennodejs/ros/quori_interactions/msg/_index.js
+/home/akash/catkin_ws/devel/.private/quori_interactions/share/gennodejs/ros/quori_interactions/msg/ArmsCmd.js /home/akash/catkin_ws/devel/share/gennodejs/ros/quori_interactions/msg/ArmsCmd.js
+/home/akash/catkin_ws/devel/.private/quori_interactions/share/roseus/ros/quori_interactions/manifest.l /home/akash/catkin_ws/devel/share/roseus/ros/quori_interactions/manifest.l
+/home/akash/catkin_ws/devel/.private/quori_interactions/share/roseus/ros/quori_interactions/msg/ArmsCmd.l /home/akash/catkin_ws/devel/share/roseus/ros/quori_interactions/msg/ArmsCmd.l
+/home/akash/catkin_ws/devel/.private/quori_interactions/share/quori_interactions/cmake/quori_interactionsConfig.cmake /home/akash/catkin_ws/devel/share/quori_interactions/cmake/quori_interactionsConfig.cmake
+/home/akash/catkin_ws/devel/.private/quori_interactions/share/quori_interactions/cmake/quori_interactions-msg-extras.cmake /home/akash/catkin_ws/devel/share/quori_interactions/cmake/quori_interactions-msg-extras.cmake
+/home/akash/catkin_ws/devel/.private/quori_interactions/share/quori_interactions/cmake/quori_interactions-msg-paths.cmake /home/akash/catkin_ws/devel/share/quori_interactions/cmake/quori_interactions-msg-paths.cmake
+/home/akash/catkin_ws/devel/.private/quori_interactions/share/quori_interactions/cmake/quori_interactionsConfig-version.cmake /home/akash/catkin_ws/devel/share/quori_interactions/cmake/quori_interactionsConfig-version.cmake
+/home/akash/catkin_ws/devel/.private/quori_interactions/share/common-lisp/ros/quori_interactions/msg/_package.lisp /home/akash/catkin_ws/devel/share/common-lisp/ros/quori_interactions/msg/_package.lisp
+/home/akash/catkin_ws/devel/.private/quori_interactions/share/common-lisp/ros/quori_interactions/msg/_package_ArmsCmd.lisp /home/akash/catkin_ws/devel/share/common-lisp/ros/quori_interactions/msg/_package_ArmsCmd.lisp
+/home/akash/catkin_ws/devel/.private/quori_interactions/share/common-lisp/ros/quori_interactions/msg/ArmsCmd.lisp /home/akash/catkin_ws/devel/share/common-lisp/ros/quori_interactions/msg/ArmsCmd.lisp
+/home/akash/catkin_ws/devel/.private/quori_interactions/share/common-lisp/ros/quori_interactions/msg/quori_interactions-msg.asd /home/akash/catkin_ws/devel/share/common-lisp/ros/quori_interactions/msg/quori_interactions-msg.asd

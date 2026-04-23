@@ -1,0 +1,1 @@
+/home/akash/catkin_ws/devel/.private/quori_interactions/share/roseus/ros/quori_interactions/msg/ArmsCmd.l

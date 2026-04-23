@@ -1,0 +1,1 @@
+/home/akash/catkin_ws/devel/.private/ros_stt/lib/python3/dist-packages/ros_stt/msg/__init__.py

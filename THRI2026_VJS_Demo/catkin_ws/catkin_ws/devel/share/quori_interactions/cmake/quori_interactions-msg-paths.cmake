@@ -1,0 +1,1 @@
+/home/akash/catkin_ws/devel/.private/quori_interactions/share/quori_interactions/cmake/quori_interactions-msg-paths.cmake

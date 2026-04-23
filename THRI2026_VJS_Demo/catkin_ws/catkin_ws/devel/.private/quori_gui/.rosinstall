@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/akash/catkin_ws/devel/.private/quori_gui/setup.sh

@@ -1,0 +1,4 @@
+Symlinking /home/akash/catkin_ws/devel/lib/pkgconfig/logitech_f710_joy_ros.pc
+Symlinking /home/akash/catkin_ws/devel/lib/logitech_f710_joy_ros/f710_teleop_joy
+Symlinking /home/akash/catkin_ws/devel/share/logitech_f710_joy_ros/cmake/logitech_f710_joy_rosConfig-version.cmake
+Symlinking /home/akash/catkin_ws/devel/share/logitech_f710_joy_ros/cmake/logitech_f710_joy_rosConfig.cmake

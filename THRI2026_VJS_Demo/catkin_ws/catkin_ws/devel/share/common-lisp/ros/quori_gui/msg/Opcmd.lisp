@@ -1,0 +1,1 @@
+/home/akash/catkin_ws/devel/.private/quori_gui/share/common-lisp/ros/quori_gui/msg/Opcmd.lisp

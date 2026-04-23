@@ -1,0 +1,1 @@
+/home/akash/catkin_ws/devel/.private/quori_interactions/share/common-lisp/ros/quori_interactions/msg/_package.lisp
